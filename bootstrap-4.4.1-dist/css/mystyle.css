@@ -1,0 +1,283 @@
+.topbar{
+    background-color: #316dc3;
+  padding: 5px;
+  margin-top: auto;
+}
+.topbarwatsapp{
+  height: 20px;
+}
+/* .topicon{
+
+  background-color: aliceblue;
+  font-size: medium;
+  
+} */
+.icon{
+  display: inline-block;
+
+margin: 2px 15px auto auto;
+
+}
+.text{
+  color: white;
+  font-size: 16px;
+  margin: 4px 4px 2px 4px;
+  padding: 5px;
+}
+
+.pl-10 {
+    padding-left: 15px !important;
+}
+
+.pr-10 {
+    padding-right: 15px !important;
+}
+.p-5 {
+    padding: 5px !important;
+}
+.marginbtn{
+  margin: 2px 7px 0px 0px;
+}
+.btn-xs{
+  font-size: 15px;
+  padding: 3px 14px;
+}
+.btn-default{
+  cursor: pointer !important;
+ 
+}
+
+
+
+
+
+
+
+.mymenu .navbar-default{
+  background: none !important;
+  border: none !important;
+
+}
+.mymenu .nav-pills .nav-link .active a{
+  background-color: #316dc3;
+  color: white;
+
+}
+.mymenu .nav-pills li a:hover{
+
+ background-color: #316dc3;
+  color: white;
+  border-radius: 25px;
+  padding-bottom: 5px;
+  margin-top: 15px;
+  display: block;
+}
+.nav-pills .nav-link.active{
+  background-color: #316dc3;
+  border-radius: 25px;
+ width: 80px;
+  margin-top: 15px;
+  text-align: center;
+}
+a.nav-link.dropdown-toggle {
+  color: #0b0c0c;
+  text-decoration: none;
+margin-top: 15px;
+display: block;
+
+}
+.logimg{
+  width: 180px;
+  margin-top: 15px;
+}
+@media(max-width:1200px){
+  .mymenu .pull-right{float: none !important;}
+
+}
+.marquee{
+  height: 30px;
+  background-color: #316dc3;
+  padding-top: 5px;
+  margin-top: 5px;
+}
+.white{
+  color: white;
+}
+.green{
+  color:lightgreen;
+}
+.royalblue{
+  color:#0000ff;
+}
+.head1{
+color:#316dc3;
+}
+.head2{
+  color: #427900;
+}
+
+p{
+  text-indent: 3px;
+  color: #6f6f6f;
+  line-height: 2em;
+  word-spacing: 1px;
+}
+
+ .midbar{
+background-color: #2755e9;
+
+
+ }
+
+.alignrtl{
+  text-align: right;
+}
+.cntr{
+  text-align: center;
+  line-height: 15px;
+  color: white;
+  font-weight: bold;
+
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.parot{
+  color: #08db31;
+  font-weight: bold;
+
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.pad{
+  padding: 90px;
+}
+.boxcolor{
+  background: radial-gradient(circle,#eeeff1,#e3e4e6);
+  padding: 20px 0px;
+}
+.blu{
+  color: #2b63b8 !important;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.textcentre{
+  text-align: center !important;
+}
+.bgcolor1{
+  background-color: white;
+  padding-top: 20px;
+  margin: 35px;
+
+}
+
+.bgcolor2{
+  background-color: white;
+  padding-top: 20px;
+  margin: 35px;
+}
+.bgcolor3{
+  background-color: white;
+  padding-top: 20px;
+  margin: 35px;
+  
+}
+.bgcolor4{
+  background-color: white;
+  padding-top: 20px;
+  margin: 35px;
+
+}
+.bgcolor5{
+  background-color: white;
+  padding-top: 20px;
+  margin: 35px;
+
+}
+.bgcolor6{
+  background-color: white;
+  padding-top: 20px;
+  margin: 35px;
+ 
+}
+
+
+
+
+.iconhead{
+  font-size: 50px;
+  line-height: 1em;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.MISSIONblue{
+  color: #2b63b8 !important;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bluesmall{
+  color: #2b63b8 !important;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+
+}
+.padingg{
+  padding-bottom: 60px;
+}
+.bggcolor1{
+  background-color:#f1f1f1;
+  margin-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+ 
+  }
+  .bggcolor2{
+    background-color:#f1f1f1;
+    margin-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    }
+    .bggcolor3{
+      background-color:#f1f1f1;
+      margin-right: 20px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+      }
+      .bggcolor4{
+        background-color:#f1f1f1;
+        margin-right: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+        }
+        .footerbg{
+background-color: black;
+
+
+
+        }
+
+        .footertext{
+color: #bababa;
+padding-top: 10px;
+padding-bottom: 5px;
+line-height: 1em;
+
+        }
+        li{
+          list-style: none;
+        }
+
+        .adju{
+          text-align: right;
+        }
+        .cbg{
+          background-color:#316dd9 ;
+          color:white;
+          padding:5px;
+        }
